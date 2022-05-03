@@ -1,0 +1,16 @@
+.todo-item {
+   display: flex;
+    justify-content: center;
+    align-items: baseline;
+}
+
+.specification-wrapper p {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: small;
+    font-weight: 200;
+    font-size: 30px;
+    line-height: 43px;
+    text-align: left;
+    letter-spacing: 0.01em;
+    color: #020000;
+}
