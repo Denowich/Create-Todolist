@@ -6,7 +6,7 @@ const todosDate = [
   },
   {
     id: 1,
-    description: "Сварить борщ",
+    description: "Приготовить борщ",
     completed: false,
   },
   {
